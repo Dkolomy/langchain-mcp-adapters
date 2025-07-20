@@ -1,0 +1,28 @@
+{
+  "name": "langchain-mcp-adapters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dkolomy/langchain-mcp-adapters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dkolomy/langchain-mcp-adapters/issues"
+  },
+  "homepage": "https://github.com/Dkolomy/langchain-mcp-adapters#readme",
+  "dependencies": {
+    "@langchain/core": "^0.3.66",
+    "@langchain/langgraph": "^0.3.10",
+    "@langchain/mcp-adapters": "^0.6.0",
+    "@langchain/openai": "^0.6.2",
+    "dotenv": "^17.2.0"
+  }
+}
